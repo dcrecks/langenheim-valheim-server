@@ -1,4 +1,7 @@
-# friendly-neighborhood-valheim-server
+# langenheim-valheim-server
+
+## Tailscale
+Configurerd with Tailscale to enable remote play
 
 ## Copying server
 The saves directory has some files. none are configured right now but if they become configure these should be passed with download but not added to the repo for possible security.
